@@ -82,30 +82,19 @@ Esta visão geral, aqui descrita, não substitui, muito menos descarta uma docum
 As instituições são consideradas os elementos fundamentais desta arquitetura, uma vez que se apresentam como agregadores de outros elementos da arquitetura (Figura 5). Além disto, conferem à arquitetura solidez institucional, que pode ainda ser promovida por instrumentos jurídicos e normativos apropriados.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image4.jpg)
 
 
 **Figura 5** – Visão geral da arquitetura centrada nas instituições, como agregadoras de recursos.
 
 Além das relações entre os elementos da arquitetura nacional em si, esta se relaciona com iniciativas e organizações internacionais e intergovernamentais, que agem como consumidoras e demandadoras de produtos e serviços gerados pela infraestrutura (Figura 6).
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.jpg "image_tooltip")
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image7.jpg)
 
 
 **Figura 6** – Relação da INDBio com alguns exemplos de iniciativas nacionais, internacionais e intergovernamentais
 
 O cenário nacional apresenta uma enorme diversidade de instituições com vocação e potencial para compor a INDBio. Apesar da diversidade, e diferente realidade de cada uma delas, podemos organizá-las nas seguintes vocações, ou potenciais, não mutuamente excludentes:
-
-
 
 * Provedora de Dados
 * Qualificadora de Dados
