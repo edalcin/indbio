@@ -103,17 +103,11 @@ O cenário nacional apresenta uma enorme diversidade de instituições com voca�
 * Provedora de Análise e Síntese
 * Capacitadora
 
-
-### 
-
-
 ### Instituições Provedoras de Dados Mestres e de Referência
 
 ---
- {#instituições-provedoras-de-dados-mestres-e-de-referência}
 
-<p style="text-align: right">
-Editor: Eduardo Dalcin</p>
+Editor: Eduardo Dalcin
 
 
 Dados Mestres e de Referência são aqueles que são requeridos por diferentes grupos, processos e sistemas da INDBio, e provêm contexto para os dados transacionais [^8].
@@ -131,22 +125,17 @@ Um exemplo de Instituição Provedora de Dados Mestres e de Referência para a I
 <p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image7.jpg "image_tooltip")
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image6.jpg)
 
 
 **Figura 7** – Exemplo de Instituição Provedora de Dados Mestres e de Referência
 
 
-### 
-
-
 ### Instituições Provedoras de Dados sobre Ocorrências
 
 ---
- {#instituições-provedoras-de-dados-sobre-ocorrências}
 
-<p style="text-align: right">
-Editor: Eduardo Dalcin</p>
+Editor: Eduardo Dalcin
 
 
 Instituições Provedoras de Dados de Ocorrências são aqui consideradas instituições, das esferas federais e estaduais, que detêm coleções biológicas devidamente curadas. As informações associadas aos itens destas coleções representam os Dados de Ocorrência – dados associados à amostra ou registro da ocorrência (imagem ou som) que compõem uma coleção cientificamente documentada.
@@ -154,8 +143,6 @@ Instituições Provedoras de Dados de Ocorrências são aqui consideradas instit
 Coleções biológicas são, notoriamente, de importância fundamental no contexto da informação sobre biodiversidade [^9] [^10], e a publicação de seus dados, metadados e imagens em formato digital, uma prioridade [^11] [^12] [^13].
 
 As instituições detentoras de coleções biológicas são um dos pilares fundamentares da INDBio, oferecendo dados sobre ocorrência para serem, no escopo da INDBio:
-
-
 
 * Consumidos por outros sistemas de integração, análise e síntese (_machine readable_ ou _M2M_);
 * Consumidos por especialistas e utilizados em processos de produção intelectual e análise e síntese (_human readable_);
@@ -166,35 +153,20 @@ Em uma visão geral, para prover dados de suas coleções, e de outros recursos 
 Estes elementos, componentes destas Unidades Funcionais, entretanto, não necessitam estar, necessariamente, inteiramente sob a responsabilidade da IPDO. Acordos de cooperação técnica e parcerias podem viabilizar, por exemplo, infraestrutura computacional e participação de especialistas externos na qualificação das coleções (Figura X).
 
 
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.jpg "image_tooltip")
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image9.jpg)
 
 
 **Figura 8** – Exemplo de Unidade Funcional Multi-institucional
 
 Da mesma forma, Unidades Funcionais podem compartilhar recursos da mesma instituição, conforme visto na Figura 8. Tal configuração é especialmente útil no compartilhamento de recursos de infraestrutura computacional, como armazenagem, processamento e operação.
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.jpg "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image8.jpg)
 
 **Figura 9** – Unidades Funcionais compartilhando recursos de diferentes instituições
 
 As Unidades Funcionais Provedoras de Dados de Ocorrência oferecem uma interface que, além de atender a INDBio, pode permitir o acesso de especialistas e do público em geral, através de um portal oferecendo consulta aos dados de suas coleções biológicas (Figura X).
 
-
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.jpg "image_tooltip")
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image12.jpg)
 
 
 **Figura 10** – Exemplo de interface de Unidade Funcional com a INDBio e consumidores
@@ -203,76 +175,54 @@ As Unidades Funcionais Provedoras de Dados de Ocorrência oferecem uma interface
 ### Instituições Provedoras de Dados Ecológicos
 
 ---
- {#instituições-provedoras-de-dados-ecológicos}
 
-<p style="text-align: right">
-Editor: Debora Drucker</p>
-
+Editor:
 
 Dados ecológicos, obtidos por observações diretas do campo e por estudos baseados em experimentos representam valioso recurso de informação sobre nossas espécies e ecossistemas [^14].
-
 
 ### Instituições com repositórios institucionais de produção intelectual
 
 ---
- {#instituições-com-repositórios-institucionais-de-produção-intelectual}
 
-<p style="text-align: right">
-Editor: </p>
+Editor:
 
 
 Um repositório institucional de acesso aberto constitui um serviço de informação científica - em ambiente digital e interoperável - dedicado ao gerenciamento da produção científica e/ou acadêmica de uma instituição (universidades ou institutos de pesquisa). Contempla a reunião, armazenamento, organização, preservação, recuperação e, sobretudo, a ampla disseminação da informação científica produzida na instituição [^15].
 
-
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.jpg "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image10.jpg)
 
 **Figura 11** - Repositório Institucional do MPEG
 
-Repositórios institucionais bem estruturados constituem importante fonte de conhecimento sistematizado sobre a biodiversidade. Uma vez que são baseados em padrões e protocolos abertos, como o padrão [http://dublincore.org/ Dublin Core] e o protocolo [http://www.openarchives.org/pmh/ Open Archives Initiative Protocol for Metadata Harvesting], podem oferecer conteúdo indexado relevante para integração a INDBio.
+Repositórios institucionais bem estruturados constituem importante fonte de conhecimento sistematizado sobre a biodiversidade. Uma vez que são baseados em padrões e protocolos abertos, como o padrão [Dublin Core](http://dublincore.org/) e o protocolo [Open Archives Initiative Protocol for Metadata Harvesting](http://www.openarchives.org/pmh/), podem oferecer conteúdo indexado relevante para integração a INDBio.
 
 
 ### Instituições Provedoras de Dados Genéticos
 
 ---
 
-
-<p style="text-align: right">
-Editor: Maristerra Rodrigues Lemes</p>
-
+Editor:
 
 Exemplos à considerar:
 
 * http://brbol.org/
-
 * https://www.ncbi.nlm.nih.gov/taxonomy/
-
 * https://www.ncbi.nlm.nih.gov/genbank/collab
-
 * http://www.ggbn.org/
 
 
 ### Instituições provedoras de dados de Germoplasma
 
 ---
- {#instituições-provedoras-de-dados-de-germoplasma}
 
-<p style="text-align: right">
-Editor: Maria Lúcia Nova da Costa</p>
+Editor:
 
 
 O termo germoplasma é definido como “a base física do cabedal genético, que reúne o conjunto de materiais hereditários de uma espécie” [^16] . Diversas instituições são detentoras de coleções de germoplasma, compostas geralmente por material de origem vegetal, animal ou microbiana, tais como os jardins botânicos, jardins zoológicos [^17] , institutos de pesquisas [^18] [^19], empresas agrícolas [^20] e outros. Essas coleções guardam também um conjunto de dados associados aos espécimes ou amostras mantidos, que dizem respeito a sua classificação taxonômica, nomes vulgares, forma de obtenção, dados de coleta e informações sobre o ambiente onde foi coletado, caracterização morfológica, química e molecular, além de outros de acordo com a especificidade do material. Dados desse tipo são de extrema relevância para apoiar ações e pesquisas científicas e tecnológicas que tratam de elaboração de fármacos, controle biológico de pragas, diagnóstico de doenças, melhoramento vegetal e caracterização e restauração ambiental, dentre outros temas que visam a melhoria da saúde pública, segurança alimentar e conservação e uso sustentável dos componentes da biodiversidade. 
 
 
-## Atores {#atores}
+## Atores
 
-<p style="text-align: right">
 Editor: </p>
-
 
 A literatura tem apresentado várias abordagens para definir e descrever “atores” que possuem relação com dados e informações sobre biodiversidade [^21] [^22] [^23] [^24] [^25] [^26] [^27].  Além destas abordagens focadas na informação sobre biodiversidade, a INDE, como uma iniciativa análoga a INDBio, reconhece grandes grupos, ou setores, partícipes da Infraestrutura; e ainda, atores que devem estar envolvidos na construção da INDE [^28].
 
@@ -280,12 +230,7 @@ Neste documento, reconhecemos dois grandes grupos de atores: aqueles relacionado
 
 Em relação aos atores relacionados com o conteúdo, podemos ainda agrupá-los em três grupos, à saber: Produtor, Transformador e Consumidor (Figura X).
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.jpg "image_tooltip")
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image11.jpg)
 
 
 **Figura X** – Principais classes de atores relacionados com conteúdo da INDBio
@@ -300,99 +245,68 @@ Como transformador de dados, consideramos aqui aqueles capazes de agregar valor 
 ### Organizações de Atores
 
 ---
- {#organizações-de-atores}
+
+#### Sociedades Científicas
+
+#### Redes temáticas e de especialistas
+
+## Recursos
+
+### Recursos de Infraestrutura Computacional
+
+Editor:
 
 
-#### Sociedades Científicas {#sociedades-científicas}
+#### Armazenagem
 
 
-#### Redes temáticas e de especialistas {#redes-temáticas-e-de-especialistas}
+#### Processamento
 
 
-## Recursos {#recursos}
+#### Conectividade
 
 
-### Recursos de Infraestrutura Computacional {#recursos-de-infraestrutura-computacional}
+#### Plataformas, ferramentas e aplicativos
 
-<p style="text-align: right">
-Editor: Wagner Leo</p>
-
+Editor: Diogo Silva
 
 
-#### Armazenagem {#armazenagem}
+### Recursos de Dados
 
+#### Dados sobre Espécies e suas Características
 
-#### Processamento {#processamento}
+Editores: Eduardo Dalcin
 
+#### Dados sobre testemunhos, ocorrências e registros de espécimes
 
-#### Conectividade {#conectividade}
-
-
-#### Plataformas, ferramentas e aplicativos {#plataformas-ferramentas-e-aplicativos}
-
-<p style="text-align: right">
-Editor: Diogo Silva</p>
-
-
-
-### Recursos de Dados {#recursos-de-dados}
-
-
-#### Dados sobre Espécies e suas Características {#dados-sobre-espécies-e-suas-características}
-
-<p style="text-align: right">
-Editores: Eduardo Dalcin, Rogério Gribel</p>
-
-
-
-#### Dados sobre testemunhos, ocorrências e registros de espécimes {#dados-sobre-testemunhos-ocorrências-e-registros-de-espécimes}
-
-<p style="text-align: right">
-Editor: Eduardo Dalcin</p>
-
+Editor: Eduardo Dalcin
 
 
 #### Dados Ecológicos {#dados-ecológicos}
 
-<p style="text-align: right">
-Editor: Debora Drucker</p>
+Editor:
 
+#### Dados sobre interações entre espécies
 
+Editor:
 
-#### Dados sobre interações entre espécies {#dados-sobre-interações-entre-espécies}
+#### Dados sobre Ameaças
 
-<p style="text-align: right">
-Editor: </p>
+Editor:
 
+# Instrumentos
 
+## Normas e Políticas
 
-#### Dados sobre Ameaças {#dados-sobre-ameaças}
+Editores:
 
-<p style="text-align: right">
-Editor: </p>
+## Padrões, Vocabulários e Ontologias
 
-
-
-# Instrumentos {#instrumentos}
-
-
-## Normas e Políticas {#normas-e-políticas}
-
-<p style="text-align: right">
-Editores: Rodrigo Silva Pinto Jorge, Keila Macfadem Juarez</p>
-
-
-
-## Padrões, Vocabulários e Ontologias {#padrões-vocabulários-e-ontologias}
-
-<p style="text-align: right">
-Editores: AnaMaria Moura, Laurindo Campos e Daniele Palazzi</p>
-
+Editores:
 
 Padrões, vocabulários e ontologias são elementos fundamentais da interoperabilidade entre sistemas de informação e, em última instância, são elementos que possibilitam que a INDBio funcione como uma rede.
 
 Segundo o [Documento de Referência da e-PING – Versão 2014](http://www.governoeletronico.gov.br/biblioteca/arquivos/documento-da-e-ping-versao-2014/), para o governo brasileiro, interoperabilidade é:
-
 
 
 * “Intercâmbio coerente de informações e serviços entre sistemas. Deve possibilitar a substituição de qualquer componente ou produto usado nos pontos de interligação por outro de especificação similar, sem comprometimento das funcionalidades do sistema.” (governo do Reino Unido);
@@ -408,20 +322,17 @@ Desta forma, a instalação da INDBIo como uma iniciativa do Governo Federal, ce
 
 A interoperabilidade possui ainda dois domínios principais: o sintático, que trata da capacidade de comunicação e troca de dados entre sistemas (formatos, padrões e protocolos), chamada de Interoperabilidade Sintática; e a semântica, que trata da capacidade de interpretar automaticamente a informação trocada, de forma significativa e precisa.
 
-O [Padrão de Metadados do Governo Eletrônico Brasileiro (e-PMG)](http://www.governoeletronico.gov.br/acoes-e-projetos/e-ping-padroes-de-interoperabilidade/padrao-de-metadados-do-governo-eletronico-e-pmg), desenvolvido com base no padrão Dublin Core, propõe o [http://vocab.e.gov.br/ Vocabulário Controlado do Governo Eletrônico], parte do Repositório de Vocabulários e Ontologias do Governo Eletrônico Brasileiro, onde o termo “Biodiversidade” se faz presente. Entretanto, para que a proposta da INDBIo se concretize, termos, vocabulários e ontologias específicos do domínio da biodiversidade e conservação necessitam ser definidos e acordados, além dos existentes, que contemplam apenas parte das demandas [^32].
+O [Padrão de Metadados do Governo Eletrônico Brasileiro (e-PMG)](http://www.governoeletronico.gov.br/acoes-e-projetos/e-ping-padroes-de-interoperabilidade/padrao-de-metadados-do-governo-eletronico-e-pmg), desenvolvido com base no padrão Dublin Core, propõe o [Vocabulário Controlado do Governo Eletrônico](http://vocab.e.gov.br), parte do Repositório de Vocabulários e Ontologias do Governo Eletrônico Brasileiro, onde o termo “Biodiversidade” se faz presente. Entretanto, para que a proposta da INDBIo se concretize, termos, vocabulários e ontologias específicos do domínio da biodiversidade e conservação necessitam ser definidos e acordados, além dos existentes, que contemplam apenas parte das demandas [^32].
 
 No cenário nacional, vale destacar a iniciativa do grupo de pesquisas do Instituto Nacional de Pesquisas da Amazônia – INPA, na definição de uma ontologia voltada para a biodiversidade [^33] [^34], registrada e disponível no agregador de ontologias bio-médicas Bioportal.
 
 Além dos padrões relacionados ao Governo Eletrônico Brasileiro, a necessidade de interoperar com sistemas de abrangência global, demanda a compatibilidade da INDBio com termos, vocabulários e ontologias de abrangência global, como o proposto pelo  [Biodiversity Information Standards](http://www.tdwg.org/) .
 
+### Padrões
 
-### Padrões {#padrões}
+#### Darwin Core e Darwing Core Archive
 
-
-#### Darwin Core e Darwing Core Archive {#darwin-core-e-darwing-core-archive}
-
-
-#### EML {#eml}
+#### EML
 
 O EML - Ecological Metadata Language [^35] é uma especificação de metadados  apropriada para documentar dados tabulares. É implementada em módulos estruturados em XML (eXtensible Markup Language) que descrevem um aspecto da documentação de um conjunto de dados, como o módulo de descrição de métodos de coleta ou o de abrangência geográfica, taxonômica e temporal do conjunto de dados [^36] . A Tabela 1 contém os módulos e a explicação do que descrevem. Essa especificação vem sendo adotada por diversas redes de grupos de pesquisa, como o LTER norte-americano (Long Term Ecological Research) [^37], o SAEON (South African Environmental Observatory Network) e o TEAM (Tropical Ecosystem Assessment and Monitoring), da Conservation International, e instituições como o NCEAS (National Center for Ecological Analysis and Synthesis) [^38] e o TFRI (Taiwan Forestry Research Institute). 
 
@@ -483,22 +394,22 @@ Tabela 1. Módulos da especificação de metadados EML e suas descrições [^41]
 
 
 
-#### Perfil MGB {#perfil-mgb}
+#### Perfil MGB
 
 
-#### LOD {#lod}
+#### LOD
 
 
-#### RDF {#rdf}
+#### RDF
 
 
-#### SPARQL {#sparql}
+#### SPARQL
 
 
-#### Plinian Core {#plinian-core}
+#### Plinian Core
 
 
-#### Dublin Core {#dublin-core}
+#### Dublin Core
 
 Metadados são comumente definidos como “dados sobre dados”. São informações que caracterizam os dados e informam sobre sua natureza, propósito, formato, autoria [^42]. São informações que possibilitam organizar, classificar, relacionar e inferir novos dados sobre o conjunto de dados. A quantidade e a qualidade dos metadados de um conjunto de dados podem determinar a utilidade daquele conjunto de dados [^43] .
 
@@ -519,77 +430,53 @@ Os termos  atualmente recomendados pelo Dublin Core Metadata Initiative (DCMI) i
 O modelo de metadados permite ainda ser estendido com vocabulários próprios a necessidade utilizando "Application Profiles".
 
 
-#### Audubon Core {#audubon-core}
+#### Audubon Core
 
 http://www.tdwg.org/homepage-news-item/article/audubon-core-public-review/
 
 
-## Estratégia Nacional de Informação Sobre Biodiversidade {#estratégia-nacional-de-informação-sobre-biodiversidade}
-
-<p style="text-align: right">
+## Estratégia Nacional de Informação Sobre Biodiversidade
 Editores: Eduardo Dalcin</p>
 
 
 A Estratégia Nacional de Informação sobre Biodiversidade é um documento que estabelece diretrizes que irão orientar e priorizar as ações nacionais e regionais para a instalação da Infraestrutura Nacional de Informação sobre Biodiversidade, seu funcionamento, evolução e sustentabilidade.
 
 
-### Eixos Prioritários {#eixos-prioritários}
-
-
+### Eixos Prioritários
 
 * Capacitação
 * Comunicação
 * Infraestrutura
 
 
-### Ações Estruturantes {#ações-estruturantes}
-
-
+### Ações Estruturantes
 
 * Oferta de capacitação em Informática na Biodiversidade, qualificação e governança de dados, análise e síntese, Taxonomia, etc.
 * Promoção da geração de produtos oriundos dos produtos e serviços oferecidos pelo SiBBr, e da utilização destes produtos no apoio à decisão.
 * Oferta de infraestrutura de armazenagem e gestão de recursos computacionais, infraestrutura adequada ao crescimento e dinamização das coleções biológicas.
 
+## Sistema de Informação sobre a Biodiversidade Brasileira - SiBBr
 
-## 
-
-
-## Sistema de Informação sobre a Biodiversidade Brasileira - SiBBr {#sistema-de-informação-sobre-a-biodiversidade-brasileira-sibbr}
-
-<p style="text-align: right">
-Editores: Luiz Gadelha Jr.</p>
-
+Editores:
 
 A instalação de uma infraestrutura como a INDBio demanda um conjunto de ferramentas, produtos e serviços que, pelas suas características estruturais e transversais, atuam um “núcleo” operacional desta Infraestrutura. Este núcleo auxilia na implementação, propagação e consolidação destas ferramentas, produtos e serviços, no momento inicial de instalação da INDBio, onde esta estrutura é precária ou inexistente. Além disso, funciona como articulador central entre a demanda e a oferta de informações sobre biodiversidade pelos diferentes atores, define e homologa padrões e protocolos de interoperabilidade entre os sistemas e garante um fluxo contínuo de dados e informações de qualidade pela rede.
 
 No cenário nacional, o Sistema de Informação sobre a Biodiversidade Brasileira – SiBBr assume este papel de núcleo operacional da Infraestrutura, distribuindo sua operação e gestão por instituições-chave do cenário técnico-científico nacional ligadas a computação científica e a biodiversidade.
 
-
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.jpg "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image13.jpg)
 
 **Figura X** – SiBBr como núcleo operacional da INDBio
 
 
-### Ferramentas, Produtos e Serviços {#ferramentas-produtos-e-serviços}
+### Ferramentas, Produtos e Serviços
 
+#### Portal agregador de produtos e serviços
 
-#### Portal agregador de produtos e serviços {#portal-agregador-de-produtos-e-serviços}
+Editor:
 
-<p style="text-align: right">
-Editor: </p>
+#### Cadastro Nacional de Coleções Biológicas
 
-
-
-#### Cadastro Nacional de Coleções Biológicas {#cadastro-nacional-de-coleções-biológicas}
-
-<p style="text-align: right">
-Editor: Eduardo Dalcin</p>
-
+Editor: Eduardo Dalcin
 
 Coleções Biológicas desempenham um papel central, fundamental e crítico em qualquer iniciativa relacionada com a informação sobre biodiversidade, e sua importância estratégica foi suficientemente explorada e enaltecida na literatura [^45] [^46]. Além disto, a [Deliberação nº 53 da Comissão Nacional de Biodiversidade – CONABIO, de 26 de agosto de 2008](http://www.mma.gov.br/estruturas/conabio/_arquivos/deliberaao_53_ctpcoleoes_15.pdf), além de reforçar este papel, apresenta um conjunto de recomendações e proposições, entre elas, criando uma Câmara Técnica Permanente de Coleções Biológicas Com algumas relevantes competências. Entretanto, não existe um Diretório Nacional de Coleções Biológicas, nem como proposição em nenhum dos documentos acima, capaz de servir de referência quantitativa e qualitativa das coleções biológicas nacionais.
 
@@ -598,62 +485,45 @@ No contexto da INDBio, um diretório nacional destes repositórios da biodiversi
 Da mesma forma que o GRBio, um diretório nacional, funcionando também como um “registrador” e, no contexto da arquitetura,  pode servir como uma “Base de Dados Mestre e de Referência”, sobre as coleções biológicas nacionais, oferecendo não só acesso à consulta pública, mas um conjunto de “Web Services” que seriam consumidos pelos sistemas distribuídos pela infraestrutura.
 
 
-#### Agregador de dados de coleções biológicas {#agregador-de-dados-de-coleções-biológicas}
+#### Agregador de dados de coleções biológicas
 
-<p style="text-align: right">
-Editor: </p>
-
+Editor:
 
 Agregadores de dados primários sobre biodiversidade são ferramentas baseadas na Internet que possibilitam a consulta integrada a diferentes coleções biológicas através de uma única interface. Como exemplos, podemos citar o agregador do Global Biodiversity Information Facility – GBIF, a instituição intergovernamental, do qual o Brasil é signatário, com a missão de “...tornar os dados mundiais sobre biodiversidade livremente acessíveis, de forma aberta, pela Internet.” [^48]; e ainda a iniciativa brasileira SpeciesLink, desenvolvida e mantida pelo Centro de Referência em Informação Ambiental – CRIA, como “...um sistema distribuído de Informação que integra em tempo real, dados primários de coleções biológicas.” [^49].
 
 
-#### Serviço de imagem em alta resolução {#serviço-de-imagem-em-alta-resolução}
+#### Serviço de imagem em alta resolução
 
 Serviço de armazenagem, processamento e incorporação (via código) de imagens de alta resolução sejam estáticas (ex.foto) ou dinâmicas (ex.filmes).
 
 Serviço de armazenagem, processamento e incorporação (via código) de arquivos de sons.
 
 
-#### Serviço de Mapeamento {#serviço-de-mapeamento}
+#### Serviço de Mapeamento
 
-<p style="text-align: right">
-Editor: Hesley Py</p>
+Editor:
 
+#### Serviço de Modelagem
 
+Editores:
 
-#### Serviço de Modelagem {#serviço-de-modelagem}
-
-<p style="text-align: right">
-Editores: Marinez Siqueira, Katia Ferraz, Rafael Loyola</p>
-
-
-
-#### Repositório de Produção Intelectual {#repositório-de-produção-intelectual}
+#### Repositório de Produção Intelectual
 
 Agregador de produção intelectual indexada sobre biodiversidade
 
 
-#### Repositório de Dados Ecológicos {#repositório-de-dados-ecológicos}
+#### Repositório de Dados Ecológicos
 
-<p style="text-align: right">
-Editor: Debora Pignatari Drucker</p>
+Editor:
 
+#### Resolvedor de nomes científicos
 
-
-#### Resolvedor de nomes científicos {#resolvedor-de-nomes-científicos}
-
-<p style="text-align: right">
-Editor: Eduardo Dalcin</p>
+Editor: Eduardo Dalcin
 
 
+#### Serviço de Qualidade de Dados
 
-#### Serviço de Qualidade de Dados {#serviço-de-qualidade-de-dados}
-
-<p style="text-align: right">
-Editores: Luís Alexandre e Allan Koch Veiga</p>
-
-
-
+Editores:
 
 * Importância da Qualidade de Dados (QD) nas pesquisas.
 * Serviços de Limpeza de Dados
@@ -663,12 +533,9 @@ Editores: Luís Alexandre e Allan Koch Veiga</p>
     * Exemplos de Serviços de Limpeza de Dados de Biodiversidade
 
 
-#### Serviço de Mineração de Dados {#serviço-de-mineração-de-dados}
+#### Serviço de Mineração de Dados
 
-<p style="text-align: right">
-Editores: Luís Alexandre e Allan Koch Veiga</p>
-
-
+Editores:
 
 ##### Uso de Serviços de Mineração de Dados na Geração de Conhecimento sobre a Biodiversidade.
 
@@ -687,18 +554,14 @@ Na INDBio pode ser usada tanto para a extração de conhecimentos quanto para a 
 
 #### Serviço de anotações {#serviço-de-anotações}
 
-<p style="text-align: right">
-Editor: Eduardo Dalcin</p>
-
+Editor: Eduardo Dalcin
 
 As anotações em dados científicos disponíveis na Internet, como em material de coleção biológica, tem surgido na literatura como uma funcionalidade nova e requerida pelos usuários de dados sobre biodiversidade [^52]. Neste cenário, dois projetos se destacam:  [FilteredPush](http://wiki.filteredpush.org/wiki/FilteredPush) [^53] e [AnnoSys](http://wiki.bgbm.org/annosys/index.php/Main_Page) [^54]. Em ambos os projetos existe a visão de um repositório central de anotações que é compatível com a visão do SiBBr atuando como um “núcleo operacional” da INDBio.
 
 
-#### Serviço de identificador único persistente {#serviço-de-identificador-único-persistente}
+#### Serviço de identificador único persistente
 
-<p style="text-align: right">
-Editor: </p>
-
+Editor:
 
 Um identificador é a associação entre uma série de caracteres e um objeto. Objetos podem ser arquivos, parte de arquivos, nomes, etc. Um identificador persistente é um identificador que esta disponível e é gerido ao longo do tempo. Ele não deve mudar se um item é renomeado ou movido. Um identificador único é um identificador que não permite conflito e que não se repete.
 
@@ -706,61 +569,31 @@ Identificadores persistentes (únicos) são importante por serem não-ambigos. N
 
 Alguns tipos de identificadores:
 
-
-
 * DOI
-
-    Digital Object Identifier (DOI) são identificadores originários da área de publicações e tem amplo uso em artigos [^56]. O DOI para um documento se mantém fixo durante a existência deste, enquanto sua localização e metadados podem mudar [^57].
-
-
-
+	* Digital Object Identifier (DOI) são identificadores originários da área de publicações e tem amplo uso em artigos [^56]. O DOI para um documento se mantém fixo durante a existência deste, enquanto sua localização e metadados podem mudar [^57].
 * ARK
-
-    Archival Resource Key (ARK) são um tipo de identificadores originários de bibliotecas, arquivos e museus [^58]. Funcionam na forma de URLs com um schema bem definido.
-
-
-
+	* Archival Resource Key (ARK) são um tipo de identificadores originários de bibliotecas, arquivos e museus [^58]. Funcionam na forma de URLs com um schema bem definido.
 * EZID
-
-    EZID é um serviço que permite acesso e gestão de identificadores persistentes para datasets, arquivos e outros recursos. Está disponível via "machine-to-machine APIs" e como uma interface web. O serviço permite adquirir DOIs e ARKs [^59].
-
-
-
+	* EZID é um serviço que permite acesso e gestão de identificadores persistentes para datasets, arquivos e outros recursos. Está disponível via "machine-to-machine APIs" e como uma interface web. O serviço permite adquirir DOIs e ARKs [^59].
 * LSID
-
-    O Life Sciences Identifier (LSID) é uma especificação de Uniform Resource Name (URN) [ou URI] cujo conceito introduz uma forma de nomear e identificar recursos armazenados em multiplos bancos de dados distribuídos [^60].
-
-
-
+	* O Life Sciences Identifier (LSID) é uma especificação de Uniform Resource Name (URN) [ou URI] cujo conceito introduz uma forma de nomear e identificar recursos armazenados em multiplos bancos de dados distribuídos [^60].
 * PURL
-
-    PURLs (Persistent Uniform Resource Locators) are Web addresses that act as permanent identifiers in the face of a dynamic and changing Web infrastructure. Instead of resolving directly to Web resources, PURLs provide a level of indirection that allows the underlying Web addresses of resources to change over time without negatively affecting systems that depend on them. This capability provides continuity of references to network resources that may migrate from machine to machine for business, social or technical reasons [^61]. 
-
-
-
+	* PURLs (Persistent Uniform Resource Locators) are Web addresses that act as permanent identifiers in the face of a dynamic and changing Web infrastructure. Instead of resolving directly to Web resources, PURLs provide a level of indirection that allows the underlying Web addresses of resources to change over time without negatively affecting systems that depend on them. This capability provides continuity of references to network resources that may migrate from machine to machine for business, social or technical reasons [^61]. 
 * UUID
-
-    Universally Unique IDentifier (UUID) é um tipo de identificador criado por algoritmos que garantem virtualmente que não serão gerados dois identificadores iguals em qualquer momento ou lugar. Assim evitam a necessidade de verificação por identificadores idênticos e ajudam a garantir que futuros mecanismos de busca e resolução encontraram a instância correta e não retornaram múltiplas possíveis interpretações [^62].
-
-
-#### Repositório de códigos-fonte {#repositório-de-códigos-fonte}
-
-<p style="text-align: right">
-Editor: </p>
+	* Universally Unique IDentifier (UUID) é um tipo de identificador criado por algoritmos que garantem virtualmente que não serão gerados dois identificadores iguals em qualquer momento ou lugar. Assim evitam a necessidade de verificação por identificadores idênticos e ajudam a garantir que futuros mecanismos de busca e resolução encontraram a instância correta e não retornaram múltiplas possíveis interpretações [^62].
 
 
+#### Repositório de códigos-fonte
 
-#### Repositório de “workflow” científico {#repositório-de-“workflow”-científico}
+Editor:
 
-<p style="text-align: right">
-Editor: Luiz Gadelha Jr.</p>
+#### Repositório de “workflow” científico
 
+Editor:
 
 Diversos autores propõem que a análise dos dados destes experimentos computacionais possa ser considerada um quarto paradigma científico [^63], em adição aos tradicionais paradigmas experimental, analítico e de simulações computacionais. Gray [^64], observa que não existem ferramentas que permitam apoiar, de forma integrada, todas as etapas envolvidas nestes experimentos, como a coleta de dados brutos nos sensores, a curadoria dos mesmos, a execução de análises, a estruturação de dados para consultas, a visualização, e a publicação científica em formato que permita que leitores e revisores acessem os dados utilizados e reproduzam os experimentos computacionais de forma automatizada. O termo e-Ciência [^65] é frequentemente utilizado para denotar atividades deste tipo.
 
 A gerência manual de experimentos científicos computacionais em larga escala [^66] é trabalhosa e sujeita a erros, já que diversos aspectos devem ser levados em consideração, por exemplo: 
-
-
 
 * As atividades podem ter dependências de dados entre si, de modo que algumas atividades só podem iniciar sua execução quando seus dados de entrada, produzidos por outras atividades que as precedem, estiverem disponíveis; 
 * Eventualmente, o fluxo de execução do experimento pode sofrer uma bifurcação para a execução de diversas atividades independentes entre si, tornando interessante a execução paralela das mesmas por questões de eficiência; 
@@ -771,17 +604,13 @@ Como observado por Davidson [^67], esses aspectos são de difícil controle quan
 
 SGWCs já foram aplicados de forma bem-sucedida, por exemplo, à modelagem de distribuição de espécies [^70] [^71] [^72] [^73] [^74], permitindo um gerenciamento integrado das diversas atividades que compõem tais estudos. No contexto do SiBBr, é interessante que sejam disponibilizadas ferramentas de gerenciamento de workflows científicos para suporte a atividades de análise e síntese que sejam dadas pela composição de diferentes atividades computacionais. No SiBBr, há um trabalho preliminar [^75] [^76] que enfatiza a questão da escalabilidade e o registro de informações de proveniência de workflows científicos para modelagem de distribuição de espécies. Finalmente, a disponibilização de tais ferramentas através de portais científicos na web [^77] [^78] as tornaria mais acessíveis e permitiria a utilização eficiente de recursos computacionais disponíveis em infraestruturas distribuídas como o SINAPAD [^79]. Algumas iniciativas têm disponibilizado workflows científicos através de repositórios na web [^80] [^81] [^82].
 
-
-#### Registrador de Serviços {#registrador-de-serviços}
+#### Registrador de Serviços
 
 Editor: 
 
+#### Sistema de Suporte à Decisão
 
-#### Sistema de Suporte à Decisão {#sistema-de-suporte-à-decisão}
-
-<p style="text-align: right">
-Editor: George Porto Ferreira</p>
-
+Editor:
 
 Sistema de Suporte à Decisão (SAD) é um sistema ou subsistema interativo, baseado em computador, destinado a ajudar os tomadores de decisão a utilizarem tecnologias de comunicação, dados, documentos, conhecimento e / ou modelos para identificar e resolver problemas, concluir tarefas do processo de tomada de decisão, e tomar decisões. “Sistema de Suporte à Decisão” é um termo geral para qualquer aplicação de computador que melhora a capacidade de uma pessoa ou grupo para tomar decisões [^83]. 
 
@@ -794,14 +623,11 @@ O Documento do Projeto [^85] cita que “_...Pelo menos quatro produtos (aplicat
 Ainda segundo o Documento do Projeto, “_Os produtos assumirão a forma de aplicativos novos ou melhorados que ofereçam ferramentas para facilitar a tomada de decisões sobre recursos naturais e ordenamento do território,  desenvolvimento das infraestruturas de conservação do projeto, decisões judiciais e legislativas, implementação de políticas públicas, bem como em qualquer outro setor público ou privado que intervêm em áreas naturais e que se beneficiarão do acesso a dados de biodiversidade._”
 
 
-### Gestão {#gestão}
+### Gestão
 
-<p style="text-align: right">
-Editor: </p>
+Editor:
 
-
-
-# Referências {#referências}
+# Referências
 
 
 <!-- Footnotes themselves at the bottom. -->
