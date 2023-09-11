@@ -1,6 +1,4 @@
-# Arquitetura de Referência da Infraestrutura Nacional de Dados sobre Biodiversidade
-
-# INDBio
+# Arquitetura de Referência da Infraestrutura Nacional de Dados sobre Biodiversidade - INDBio
 
 **Marco Conceitual**
 
