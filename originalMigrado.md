@@ -1,82 +1,12 @@
-<!-----
-
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 13
-
-Conversion time: 6.987 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β34
-* Mon Sep 11 2023 03:09:27 GMT-0700 (PDT)
-* Source doc: Arquitetura de Referência da INDBio
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
-
-WARNING:
-You have 10 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 13.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
-<a href="#gdcalert7">alert7</a>
-<a href="#gdcalert8">alert8</a>
-<a href="#gdcalert9">alert9</a>
-<a href="#gdcalert10">alert10</a>
-<a href="#gdcalert11">alert11</a>
-<a href="#gdcalert12">alert12</a>
-<a href="#gdcalert13">alert13</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Arquitetura de Referência da Infraestrutura Nacional de Dados sobre Biodiversidade
-
 
 # INDBio
 
 **Marco Conceitual**
 
-Organização: 
+Organização: Eduardo Dalcin
 
-Eduardo Dalcin
-
-
-# 
-
-
-# Índice
-
-
-[TOC]
-
-
-
-# 
-
-
-# Sumario executivo {#sumario-executivo}
+# Sumario executivo
 
 Este documento propõe uma Arquitetura de Referência para a instalação de uma Infraestrutura Nacional de Dados sobre Biodiversidade (INDBio). '''Esta arquitetura consiste identificação e descrição de um conjunto de elementos e suas interações, em forma de rede, que, juntamente com instrumentos próprios, possibilitam o fluxo de informação de sobre biodiversidade'''.
 
@@ -98,93 +28,54 @@ Desde então, por diversas razões, o foco no amadurecimento e consolidação de
 Assim sendo, consideramos ser fundamental o amadurecimento e consolidação de uma visão conceitual de uma Arquitetura, que incorpore não só um “Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr)”, mas uma toda uma Infraestrutura Nacional de Informações sobre Biodiversidade, capaz de suportar e garantir o funcionamento adequado e sustentável deste sistema.
 
 
-# Visão Geral {#visão-geral}
+# Visão Geral
 
 A organização de uma Infraestrutura Nacional de Dados sobre Biodiversidade (INDBio) pode ter diferentes abordagens. Neste documento consideramos uma visão em geral, em seu mais alto nível de abstração, onde elementos básicos interagem entre si na forma de uma rede (Figura 1).
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image1.jpg)
 
 **Figura 1** – Visão Geral da Infraestrutura Nacional de Dados sobre Biodiversidade (INDBio) com exemplos de elementos e suas relações, não necessariamente representando todas as suas possibilidades
 
 Esta visão geral, aqui descrita, não substitui, muito menos descarta uma documentação que prevê uma abordagem global ao design, planejamento, implementação e governança de uma arquitetura formal, modelada em níveis ou domínios, como: Negócios (''Business''), Aplicação (''Application''), Dados (''Data'') e Tecnologia (''Technology''). Para tal, um framework apropriado deve ser utilizado como o TOGAF [^5] (Figura 2).
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image3.png)
 
 **Figura 2** - Ciclo de Desenvolvimento de Arquitetura segundo o framework TOGAF 9.1 (Haren, 2011)
 
+# Missão e Objetivos
 
-# Missão e Objetivos {#missão-e-objetivos}
-
-
-## Declaração de Missão {#declaração-de-missão}
+## Declaração de Missão
 
 **_“Proporcionar melhor tomada de decisão na conservação e no uso sustentado e socialmente justo da biodiversidade por meio de uma iniciativa governamental interdisciplinar voltada para qualificação, integração e publicação de dados.”_**
 
-
-## Objetivos {#objetivos}
-
-
+## Objetivos
 
 * Assegurar ampla colaboração entre instituições, especialistas e grupos temáticos;
 * Assegurar o acesso aberto e público a dados de qualidade;
 * Evitar a duplicação de esforços e fontes de informação inconsistentes;
 * Garantir que o melhor conhecimento disponível e o rigor científico sejam preponderantes na tomada de decisão.
 
-
 ## Princípios da Arquitetura {#princípios-da-arquitetura}
 
-
-
 * A INDBio possui uma organização em forma de rede, não linear, não hierárquica, formada de elementos e interações [^6], e centrada em Instituições;
-
-
 * Os elementos da arquitetura podem se agregar em Unidades Funcionais (Figura 3);
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image2.jpg)
 
 **Figura 3** – Exemplo de Unidade Funcional provedora de dados primários
 
-
-
 * A arquitetura é baseada no compartilhamento e reutilização de dados e componentes entre as aplicações, e orientada a serviços, com a adoção de padrões e protocolos abertos, largamente utilizados (Figura 4);
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image5.png)
 
 **Figura 4** – Arquitetura orientada a serviços
-
-
 
 * Todo o dado sobre biodiversidade disponível na INDBio deve ter um conjunto de metadados associado, em formato aberto, padronizado e também digitalmente acessível;
 * Todo o dado sobre biodiversidade disponível na INDBio deve ter um responsável pela sua qualidade, consistência e integridade;
 * Todo o dado sobre biodiversidade que trafega na INDBio é considerado público, e seu uso é definido pela licença citada nos metadados correspondentes;
 
 
-# Elementos da Arquitetura {#elementos-da-arquitetura}
-
+# Elementos da Arquitetura
 
 ## Instituições[^7]
 
