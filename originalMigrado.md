@@ -13,7 +13,7 @@ Esta rede de elementos e suas interações permitem, em sua essência, que dados
 Em essência, o propósito desta arquitetura é viabilizar a catalogação, integração e harmonização de dados existentes sobre biodiversidade, de maneira que possam ser facilmente localizados, acessados e explorados para os mais diversos usos, por qualquer cliente que tenha acesso à Internet.
 
 
-# Motivação e Justificativa {#motivação-e-justificativa}
+# Motivação e Justificativa
 
 Em 29 de novembro de 2011 foi realizada a “Reunião de Peritos em Sistemas de Informação sobre Biodiversidade – SIBBr”, em Brasília – DF, no qual o objetivo era apresentar aos presentes o “Projeto SiBBr” e a “Coleta de subsídios para a definição da estratégia de elaboração, implementação e consolidação do SIBBr (“Road map”)” [^1]. Na mesma ocasião, foram apresentadas, na dinâmica do evento, várias questões à serem respondidas pelos grupos de trabalho, entre elas a questão “Qual deve ser a estrutura (arquitetura) geral do sistema?”. Desde então, esta pergunta não obteve uma resposta clara, objetiva e acordada, nem mesmo no seio do “Comitê Técnico Científico do SiBBr” (CTC), cuja gênese remonta à mesma reunião.
 
@@ -117,11 +117,6 @@ Além dos Dados de Referência Taxonômica e Nomenclatural, podemos considerar t
 Dados Mestres e de Referência, mais do que prover contexto para dados transacionais, possibilitam que dados sobre uma mesma entidade, dispersos pela Infraestrutura, se agreguem em torno de um domínio, possibilitando análise e síntese dentro de um contexto taxonômico, espacial ou temporal completo, baseado em todo o conhecimento disponível produzido.
 
 Um exemplo de Instituição Provedora de Dados Mestres e de Referência para a INDBio é o Instituto de Pesquisas Jardim Botânico do Rio de Janeiro (JBRJ), provendo um “backbone” nomenclatural e taxonômico com a Lista de Espécies da Flora do Brasil (Figura X), tanto na opção “human readable” (http://floradobrasil.jbrj.gov.br/) quanto “machine readable” (ou M2M – machine to machine) ([http://ipt.jbrj.gov.br/](http://ipt.jbrj.gov.br/) e [http://reflora.jbrj.gov.br/tapirlink/](http://reflora.jbrj.gov.br/tapirlink/)).
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![alt_text](http://dalcinweb.s3-website-us-east-1.amazonaws.com/github/indbio/imgs/image6.jpg)
 
