@@ -13,7 +13,7 @@ A resposta à esta pergunta ficou à cargo do “GT de arquitetura” do “Comi
 
 | Data | Observação |
 |---|---|
-|  | Documento original migrado para o Github
+|  | Documento original migrado para o Github, com contribuições de Debora Drucker no documento original |
 | março de 2025 | Atualização do README com histórico do documento e referências |
 
 
